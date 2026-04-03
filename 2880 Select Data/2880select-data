@@ -1,0 +1,7 @@
+import pandas as pd
+
+def selectData(students: pd.DataFrame) -> pd.DataFrame:
+    for row in students.itertuples():
+        if row.student_id == 101:
+            dt = pd.DataFrame([[row.name,row.age]],columns=["name","age"])
+            return dt
