@@ -1,0 +1,6 @@
+import pandas as pd
+
+def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
+    for i in range(len(employees)):
+        employees.loc[i,"salary"] = employees.loc[i,"salary"]*2
+    return employees
