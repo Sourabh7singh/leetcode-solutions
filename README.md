@@ -6,6 +6,7 @@ My LeetCode solutions with explanations. Automatically synced.
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -14,6 +15,7 @@ My LeetCode solutions with explanations. Automatically synced.
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -40,4 +42,12 @@ My LeetCode solutions with explanations. Automatically synced.
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
