@@ -8,6 +8,7 @@ My LeetCode solutions with explanations. Automatically synced.
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -17,6 +18,7 @@ My LeetCode solutions with explanations. Automatically synced.
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 ## Array
 |  |
 | ------- |
@@ -46,8 +48,10 @@ My LeetCode solutions with explanations. Automatically synced.
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [1302-deepest-leaves-sum](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [1302-deepest-leaves-sum](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
 <!---LeetCode Topics End-->
