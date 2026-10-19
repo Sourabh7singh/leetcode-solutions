@@ -25,6 +25,7 @@ My LeetCode solutions with explanations. Automatically synced.
 | [0867-transpose-matrix](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +60,8 @@ My LeetCode solutions with explanations. Automatically synced.
 |  |
 | ------- |
 | [3856-trim-trailing-vowels](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
