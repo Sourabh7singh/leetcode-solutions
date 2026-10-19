@@ -55,4 +55,8 @@ My LeetCode solutions with explanations. Automatically synced.
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/1302-deepest-leaves-sum) |
+## String
+|  |
+| ------- |
+| [3856-trim-trailing-vowels](https://github.com/Sourabh7singh/leetcode-solutions/tree/master/3856-trim-trailing-vowels) |
 <!---LeetCode Topics End-->
